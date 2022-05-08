@@ -4,7 +4,7 @@ I love how collaboration and knowledge sharing happened through open-source.
 
 
 Things I do:-
-Python, Machine Learning, Deep Learning, DBMS, Power BI and Tableau
+Python, Machine Learning, Deep Learning, NLP, DBMS, Power BI and Tableau
 <!---
 aakashj07/aakashj07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
